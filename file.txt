@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() {
+    printf("Hello world this is git and yeaaa i am trying new things heheh\n"
+           "This was added from feature branch\n"
+           "creating new file\n");
+    return 0;
+}
